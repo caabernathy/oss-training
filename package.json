@@ -1,0 +1,14 @@
+{
+  "name": "oss-training",
+  "version": "1.0.0",
+  "description": "Open source training project",
+  "repository": "git@github.com:caabernathy/oss-training.git",
+  "author": "Christine Abernathy <ca.abernathy@fb.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^19.0.2"
+  }
+}
