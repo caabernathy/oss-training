@@ -14,7 +14,7 @@ We actively welcome your pull requests.
 
 If you make code changes, we expect you to detail how you tested the changes when your submit the pull request.
 
-You can send a link to a [JSFiddle](https://jsfiddle.net/) where you show a working test. Here's an example fiddle showing [sum functionality](https://jsfiddle.net/caabernathy/cwwebmyn/).
+You can send a link to a [JSFiddle](https://jsfiddle.net/) where you show a working test. Here's an example fiddle showing [sum functionality](https://jsfiddle.net/caabernathy/5mz4qusa/).
 
 If you add new functionality, we expect you to add a new test in the `js/__tests__` folder. These are [Jest](http://facebook.github.io/jest/) tests. See existing tests as examples.
 
