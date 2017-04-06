@@ -32,7 +32,7 @@ Adding new functions:
 
 **Online**
 
-You can test your code fixes online starting with this [JS Fiddle](https://jsfiddle.net/j6Leyhg3/1/). It's pre-filled with some of the functions that currently exist in the `js` folder. Watchful eyes may notice some new functions that this repo doesn't have. At least for now.
+You can test your code fixes online starting with this [JS Fiddle](https://jsfiddle.net/caabernathy/822ur38d/). It's pre-filled with some of the functions that currently exist in the `js` folder. Watchful eyes may notice some new functions that this repo doesn't have. At least for now.
 
 **Locally**
 
