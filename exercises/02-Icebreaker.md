@@ -24,3 +24,8 @@ Be warned, reviewers may dare you to add flare. If you don't know what flare is,
 Hello my name is Ray.
 My favorite quote is "If you judge people, you have no time to love them".
 </pre>
+
+<pre>
+Hello, my name is Xavier. (I'm a pretend cat)
+My favorite quote is "As every cat owner knows, nobody owns a cat".
+</pre>
