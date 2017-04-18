@@ -19,3 +19,13 @@ My favorite quote is "YOUR_FAVORITE_QUOTE".
 Be warned, reviewers may dare you to add flare. If you don't know what flare is, watch [Office Space](https://en.wikipedia.org/wiki/Office_Space) when you have a minute.
 
 ### Add Your Info Below...
+
+<pre>
+Hello my name is Ray.
+My favorite quote is "If you judge people, you have no time to love them".
+</pre>
+
+<pre>
+Hello, my name is Xavier. (I'm a pretend cat)
+My favorite quote is "As every cat owner knows, nobody owns a cat".
+</pre>
