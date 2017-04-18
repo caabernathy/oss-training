@@ -9,6 +9,7 @@ We actively welcome your pull requests.
 1. Fork the repo and create your branch from `master`.
 1. If you've added code that should be tested, add tests and make sure the test suite passes.
 1. If you've made documentation fixes, we love you!
+1. Ensure tests pass on Travis CI.
 
 ## Testing Code Changes
 
@@ -18,7 +19,7 @@ You can send a link to a [JSFiddle](https://jsfiddle.net/) where you show a work
 
 If you add new functionality, we expect you to add a new test in the `js/__tests__` folder. These are [Jest](http://facebook.github.io/jest/) tests. See existing tests as examples.
 
-If you're not familiar with Jest, and/or you aren't ready to install it, just add a test anyway. The reviewer will run your test to make sure it passes.
+If you're not familiar with Jest, and/or you aren't ready to install it, just add a test anyway. The continuous integration tests (via Travis CI) will run to check this. If your tests fail, the PR will not be accepted.
 
 Alternatively, you can set up Jest and get brownie points for mentioning in the pull request that you've run the local test suite.
 
@@ -27,15 +28,15 @@ Alternatively, you can set up Jest and get brownie points for mentioning in the 
 You only need to do the following one time:
 
 1. Install [Brew](http://brew.sh/)
-1. Install Node
+2. Install Node
 ```sh
 brew install node
 ```
-1. Install Watchman
+3. Install Watchman
 ```sh
 brew install watchman
 ```
-1. Install Yarn
+4. Install Yarn
 ```sh
 npm install -g yarn
 ```
