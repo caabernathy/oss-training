@@ -10,4 +10,6 @@ Your mission, if you choose to accept it, is to find all the really odd things a
 
 I'd also love to see code, more code than I can ever put together myself.
 
-ENJOY!
+ENJOY!!
+
+Cool beanz
